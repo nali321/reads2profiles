@@ -10,7 +10,7 @@ Inputs:
 
 -i: Input type for metaphlan (Default value is "fastq")
 
--d: User specified taxa depth. Will only extract clade data and abundance at or after the specified depth (Default value is "g"). List of accepted inputs:
+-d: User specified taxa depth. Will only extract clade data and abundance starting at the specified depth (Default value is "g"). List of accepted inputs:
 
     k: kingdom (will grab everything output by metaphlan)
     p: phylum
